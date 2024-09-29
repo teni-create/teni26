@@ -15,10 +15,10 @@
 * [d2l](https://learn.georgebrown.ca/d2l/home)
 # Experiments
 * :blush:
-* 😆
-* 💗
-* 😍 
-* 👍
+* :satisfied:
+* :heartpulse:
+* :heart_eyes: 
+* :thumbsup:
 ## Keyboard shortcuts
 Shortcuts I frequently use: 
 - Ctrl-C (copy)
