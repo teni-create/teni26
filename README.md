@@ -14,7 +14,7 @@
 * [GitHub Pages](https://pages.github.com/)
 * [d2l](https://learn.georgebrown.ca/d2l/home)
 # Experiments
-* 🤭
+* :blush:
 * 😆
 * 💗
 * 😍 
