@@ -14,8 +14,18 @@
 * [GitHub Pages](https://pages.github.com/)
 * [d2l](https://learn.georgebrown.ca/d2l/home)
 # Experiments
-* :blush:
-* :satisfied:
-* :heartpulse:
-* :heart_eyes:
-* :thumbsup:
+* 🤭
+* 😆
+* 💗
+* 😍 
+* 👍
+## Keyboard shortcuts
+Shortcuts I frequently use: 
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Ctrl-S (Save)
+
+Shortcuts I would like to start using: 
+- Ctrl - Y (Redo)
+- Ctrl - A (Select All)
+- Ctrl - F (Find)
