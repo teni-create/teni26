@@ -13,6 +13,7 @@
 * [GitHub docs](https://docs.github.com/en)
 * [GitHub Pages](https://pages.github.com/)
 * [d2l](https://learn.georgebrown.ca/d2l/home)
+* [CLI commands](teni-create/teni26/docs/cli.md)
 # Experiments
 * :blush:
 * :satisfied:
