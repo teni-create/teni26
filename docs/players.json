@@ -1,0 +1,20 @@
+[
+    {
+      "name": "James Brown", // string
+      "sports": "Basketball",
+      "team": {
+        "name": "Raptors",
+        "city": "Toronto"
+      }
+    },
+    {
+      "name": "Scottie Barnes",
+      "sports": "Basketball",
+      "team": {
+        "name": "Raptors",
+        "city": "Toronto"
+      }
+    }
+    
+    
+  ]
